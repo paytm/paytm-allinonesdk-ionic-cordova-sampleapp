@@ -1,0 +1,7 @@
+{
+  "name": "AllInOneSampleApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
